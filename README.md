@@ -1,4 +1,4 @@
-Developing the currency converter using HTML,CSS and Javascript
+#Developing the currency converter using HTML,CSS and Javascript#
 index.html:
 The provided HTML code defines the structure of a web page for a currency converter. The document begins with the necessary HTML5 doctype declaration and sets the language attribute to "en" (English). The head section includes meta tags for character set and viewport settings, along with a title for the document. External stylesheets, including Font Awesome for icons, are linked to enhance the visual presentation.
 Within the body, a main container with the class "container" holds the content. An H2 heading introduces the purpose of the page as a currency converter. The form element contains input fields, dropdowns for currency selection, and a button labeled "Get Exchange Rate." Flags representing currencies are displayed using images from the flagsapi.com service.
